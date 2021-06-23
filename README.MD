@@ -1,6 +1,6 @@
 # Getting Started with React Native
 
-Here is my portfolio for react native apps, using facebook account to login and using restaurant API for find the restaurant
+Here is my portfolio for react native apps, using facebook account to login and using restaurant API for find and located the restaurant in the google map
 
 I am using Expo Go (playstore app) to run this App 
 
@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/62905161/123058905-77026b80-d433-11eb-
 - Redux Thunk
 - React Navigation
 - Expo-facebook
+- Expo-mapView
 
 How to run this project :
 
